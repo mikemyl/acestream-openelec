@@ -23,3 +23,5 @@ scp -r acestream <kodi ip>:~/.kodi/userdata/addon_data/program.plexus/
 ```
 
 Now acestream engine should be working again.
+
+If using castaway p2p-corner for acestream links (arenavision, livefootball etc), check [this](https://github.com/sestus/castaway-p2p-corner).
