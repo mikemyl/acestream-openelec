@@ -1,7 +1,7 @@
 (dp0
 S'total_max_upload_rate'
 p1
-I0
+I100
 sS'allow_intranet_access'
 p2
 I01
@@ -26,13 +26,13 @@ p9
 L536870912L
 sS'player_buffer_time'
 p10
-I15
+I30
 sS'max_peers'
 p11
 I100
 sS'max_connects'
 p12
-I140
+I150
 sS'preferred_audio_language'
 p13
 S'eng'
