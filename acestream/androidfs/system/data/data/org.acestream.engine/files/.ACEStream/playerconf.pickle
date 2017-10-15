@@ -17,7 +17,7 @@ p6
 L1073741824L
 sS'live_buffer_time'
 p7
-I30
+I10
 sS'allow_remote_access'
 p8
 I01
@@ -26,7 +26,7 @@ p9
 L536870912L
 sS'player_buffer_time'
 p10
-I30
+I10
 sS'max_peers'
 p11
 I100
